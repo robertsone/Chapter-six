@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inches to feet", "Chapter six\Inches to feet.csproj", "{87AF84A5-E1B7-46A5-82D2-4A3965D954F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monograms", "ConsoleApplication1\Monograms.csproj", "{A695D271-CD10-42CF-BC17-10A3FF6714E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87AF84A5-E1B7-46A5-82D2-4A3965D954F5}.Debug|x86.ActiveCfg = Debug|x86
+		{87AF84A5-E1B7-46A5-82D2-4A3965D954F5}.Debug|x86.Build.0 = Debug|x86
+		{87AF84A5-E1B7-46A5-82D2-4A3965D954F5}.Release|x86.ActiveCfg = Release|x86
+		{87AF84A5-E1B7-46A5-82D2-4A3965D954F5}.Release|x86.Build.0 = Release|x86
+		{A695D271-CD10-42CF-BC17-10A3FF6714E5}.Debug|x86.ActiveCfg = Debug|x86
+		{A695D271-CD10-42CF-BC17-10A3FF6714E5}.Debug|x86.Build.0 = Debug|x86
+		{A695D271-CD10-42CF-BC17-10A3FF6714E5}.Release|x86.ActiveCfg = Release|x86
+		{A695D271-CD10-42CF-BC17-10A3FF6714E5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
