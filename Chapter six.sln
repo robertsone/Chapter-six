@@ -5,6 +5,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inches to feet", "Chapter s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monograms", "ConsoleApplication1\Monograms.csproj", "{A695D271-CD10-42CF-BC17-10A3FF6714E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exponents", "Exponents\Exponents.csproj", "{456D4276-E38F-4E77-A2D5-F1F042590CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "squares", "squares\squares.csproj", "{7E3D09EF-103F-4981-A5F1-458BF494F5F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse", "Reverse\Reverse.csproj", "{3B93D56E-1F12-4B50-920C-8A770AFF4A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "area", "area\area.csproj", "{A6801937-1C00-468D-A531-1411C8908D8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG", "RPG\RPG.csproj", "{1CF87F82-CEC9-4F86-BE51-BE78088F0F31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +29,26 @@ Global
 		{A695D271-CD10-42CF-BC17-10A3FF6714E5}.Debug|x86.Build.0 = Debug|x86
 		{A695D271-CD10-42CF-BC17-10A3FF6714E5}.Release|x86.ActiveCfg = Release|x86
 		{A695D271-CD10-42CF-BC17-10A3FF6714E5}.Release|x86.Build.0 = Release|x86
+		{456D4276-E38F-4E77-A2D5-F1F042590CB7}.Debug|x86.ActiveCfg = Debug|x86
+		{456D4276-E38F-4E77-A2D5-F1F042590CB7}.Debug|x86.Build.0 = Debug|x86
+		{456D4276-E38F-4E77-A2D5-F1F042590CB7}.Release|x86.ActiveCfg = Release|x86
+		{456D4276-E38F-4E77-A2D5-F1F042590CB7}.Release|x86.Build.0 = Release|x86
+		{7E3D09EF-103F-4981-A5F1-458BF494F5F1}.Debug|x86.ActiveCfg = Debug|x86
+		{7E3D09EF-103F-4981-A5F1-458BF494F5F1}.Debug|x86.Build.0 = Debug|x86
+		{7E3D09EF-103F-4981-A5F1-458BF494F5F1}.Release|x86.ActiveCfg = Release|x86
+		{7E3D09EF-103F-4981-A5F1-458BF494F5F1}.Release|x86.Build.0 = Release|x86
+		{3B93D56E-1F12-4B50-920C-8A770AFF4A7F}.Debug|x86.ActiveCfg = Debug|x86
+		{3B93D56E-1F12-4B50-920C-8A770AFF4A7F}.Debug|x86.Build.0 = Debug|x86
+		{3B93D56E-1F12-4B50-920C-8A770AFF4A7F}.Release|x86.ActiveCfg = Release|x86
+		{3B93D56E-1F12-4B50-920C-8A770AFF4A7F}.Release|x86.Build.0 = Release|x86
+		{A6801937-1C00-468D-A531-1411C8908D8B}.Debug|x86.ActiveCfg = Debug|x86
+		{A6801937-1C00-468D-A531-1411C8908D8B}.Debug|x86.Build.0 = Debug|x86
+		{A6801937-1C00-468D-A531-1411C8908D8B}.Release|x86.ActiveCfg = Release|x86
+		{A6801937-1C00-468D-A531-1411C8908D8B}.Release|x86.Build.0 = Release|x86
+		{1CF87F82-CEC9-4F86-BE51-BE78088F0F31}.Debug|x86.ActiveCfg = Debug|x86
+		{1CF87F82-CEC9-4F86-BE51-BE78088F0F31}.Debug|x86.Build.0 = Debug|x86
+		{1CF87F82-CEC9-4F86-BE51-BE78088F0F31}.Release|x86.ActiveCfg = Release|x86
+		{1CF87F82-CEC9-4F86-BE51-BE78088F0F31}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

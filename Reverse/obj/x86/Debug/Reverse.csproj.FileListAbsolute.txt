@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-six\Reverse\bin\Debug\Reverse.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-six\Reverse\bin\Debug\Reverse.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-six\Reverse\obj\x86\Debug\Reverse.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-six\Reverse\obj\x86\Debug\Reverse.pdb

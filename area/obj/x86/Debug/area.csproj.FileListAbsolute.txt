@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-six\area\bin\Debug\area.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-six\area\bin\Debug\area.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-six\area\obj\x86\Debug\area.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-six\area\obj\x86\Debug\area.pdb

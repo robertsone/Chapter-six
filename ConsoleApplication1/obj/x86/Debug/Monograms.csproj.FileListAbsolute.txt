@@ -2,3 +2,7 @@ C:\Users\eahscs\Desktop\Chapter six\ConsoleApplication1\bin\Debug\ConsoleApplica
 C:\Users\eahscs\Desktop\Chapter six\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\eahscs\Desktop\Chapter six\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 C:\Users\eahscs\Desktop\Chapter six\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-six\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-six\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-six\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-six\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb

@@ -2,3 +2,7 @@ C:\Users\eahscs\Desktop\Chapter six\Chapter six\bin\Debug\Chapter six.exe
 C:\Users\eahscs\Desktop\Chapter six\Chapter six\bin\Debug\Chapter six.pdb
 C:\Users\eahscs\Desktop\Chapter six\Chapter six\obj\x86\Debug\Chapter six.exe
 C:\Users\eahscs\Desktop\Chapter six\Chapter six\obj\x86\Debug\Chapter six.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-six\Chapter six\obj\x86\Debug\Chapter six.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-six\Chapter six\obj\x86\Debug\Chapter six.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-six\Chapter six\bin\Debug\Chapter six.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-six\Chapter six\bin\Debug\Chapter six.pdb
